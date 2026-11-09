@@ -1,0 +1,7 @@
+/target/
+/build/
+/dist/
+/nbproject/private/
+*.class
+.env
+.env.*
